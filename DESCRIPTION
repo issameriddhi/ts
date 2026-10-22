@@ -2,7 +2,7 @@ Package: bd
 Type: Package
 Title: My Practical Codes
 Version: 1.0.0
-Authors@R: person("Riddhi", "Kasar", email = "riddhi@example.com", role = c("aut", "cre"))
+Authors@R: person("Riddhi", "Kasar", email = "riddhikasar11@gmail.com", role = c("aut", "cre"))
 Description: Collection of practical programs.
 License: MIT
 Encoding: UTF-8
